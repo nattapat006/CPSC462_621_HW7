@@ -1,6 +1,7 @@
 ## Welcome to Profile Pages
-
+<div class="w3-card">
 <img src=”1111111.jpg” width=”50px” height=”50px”>
+</div>
 
 ชื่อ : นาย ณัฐภัทร คำมูล 
 
