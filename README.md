@@ -8,13 +8,15 @@ Email : nattapat.kummoon@gmail.com
 
 เบอร์ : 090-316-2178 , 062-259-0202
 
+ความสามารถพิเศษทางด้านดนตรี : กีต้าร์ , กีต้าร์เบส , ทรัมเป็ต
+
 You can use the [editor on GitHub](https://github.com/nattapat006/CPSC462_621_HW7/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### โค้ด [javaintro](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/JavaCoding.pdf) จำนวน 906 บรรทัด 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+โค้ด [javaintro](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/JavaCoding.pdf) จำนวน 906 บรรทัด 
 
 ```markdown
 Syntax highlighted code block
