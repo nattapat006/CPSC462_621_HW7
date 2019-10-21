@@ -26,12 +26,14 @@ Email : nattapat.kummoon@gmail.com
 
 [pyramid31](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/Pyramid/non31.java)   [pyramid32](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/Pyramid/non32.java)   [pyramid33](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/Pyramid/non33.java)   [pyramid34](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/Pyramid/non34.java)   [pyramid35](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/Pyramid/non35.java)   [pyramid36](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/Pyramid/non36.java)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-### Jekyll Themes
+### [งานมอบหมายที่ 3](https://github.com/nattapat006/CPSC462_621_Midterm/tree/master/HW_3_java)ซึ่งมีหลายโปรแกรม และงานเขียน [49 Keywords](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/HW_3_java/%E0%B8%84%E0%B8%B3%E0%B8%A8%E0%B8%B1%E0%B8%9E%E0%B8%97%E0%B9%8C.jpg)
 
 
-### Jekyll Themes
+### [งานมอบหมายที่ 4](https://github.com/nattapat006/CPSC462_621_Midterm/tree/master/HW_4_Error) และ [10 Programs](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/HW_4_Error/10%20program.pdf) ที่มีจุดผิด พร้อมเฉลย
+
+
+### [งานมอบหมายที่ 5](https://github.com/nattapat006/CPSC462_621_Midterm/tree/master/HW_5_sub) หาค่า [first last max min](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/HW_4_Error/10%20program.pdf)
+
+
+### งานมอบหมายที่ 6 [Midterm project](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/Midterm_project.pdf)
