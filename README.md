@@ -10,16 +10,16 @@ Email : nattapat.kummoon@gmail.com
 
 ความสามารถพิเศษทางด้านดนตรี : กีต้าร์ , กีต้าร์เบส , ทรัมเป็ต
 
-### Javaintro
+### โค้ด [javaintro](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/JavaCoding.pdf) จำนวน 906 บรรทัด 
 
-โค้ด [javaintro](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/JavaCoding.pdf) จำนวน 906 บรรทัด 
+### Jekyll Themes
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### [36 pyramid](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/JavaCoding.pdf)
 
 - Bulleted
 - List
@@ -33,11 +33,12 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nattapat006/CPSC462_621_HW7/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Jekyll Themes
+
+### Jekyll Themes
