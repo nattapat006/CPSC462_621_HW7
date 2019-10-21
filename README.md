@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Profile Pages
+
+ชื่อ : นาย ณัฐภัทร คำมูล 
+
+ที่อยู่ : 31/13 บ้านตากล้า ต.บ่อแก้ว อ.นาหมื่น จ.น่าน 55180
+
+Email : nattapat.kummoon@gmail.com
+
+เบอร์ : 090-316-2178 , 062-259-0202
 
 You can use the [editor on GitHub](https://github.com/nattapat006/CPSC462_621_HW7/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
