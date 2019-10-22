@@ -1,6 +1,6 @@
 ## Welcome to Profile Pages
 
-<img src=”https://github.com/nattapat006/CPSC462_621_HW7/blob/master/1111111.jpg” width=”50px” height=”50px”>
+![Image](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/1111111.jpg)
 
 ชื่อ : นาย ณัฐภัทร คำมูล 
 
