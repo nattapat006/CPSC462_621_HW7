@@ -1,14 +1,15 @@
-## Welcome to Profile Pages
-
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
     <div class="w3-container">
+        <br /> <br /> <br /> 
   <img src="n01.jpg" class="w3-round-xxlarge" w3-center style="width:50%">
 </div>
 </body>
 </html>
+
+## Welcome to Profile Pages
 
 ชื่อ : นาย ณัฐภัทร คำมูล 
 
