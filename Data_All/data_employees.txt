@@ -1,0 +1,3 @@
+1,fon,nation,Lampang,054-7547182
+1,preaw,nation,Lampang,054-6644321
+1,fern,nation,Lampang,054-754777
