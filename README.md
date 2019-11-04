@@ -48,3 +48,25 @@ Email : nattapat.kummoon@gmail.com
 
 
 ### งานมอบหมายที่ 6 [Midterm project](https://github.com/nattapat006/CPSC462_621_Midterm/blob/master/Midterm_project.pdf)
+
+
+### งานมอบหมายที่ 8
+#### ข้อมูล
+[data_categories](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_categories.txt)
+[data_customers](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_customers.txt)
+[data_employees](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_employees.txt)
+[data_orderdetails](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_orderdetails.txt)
+[data_orders](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_orders.txt)
+[data_products](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_products.txt)
+[data_shippers](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_shippers.txt)
+[data_suppliers](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_suppliers.txt)
+
+#### แสดงผลข้อมูล
+[print_categories](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/print_categories.java)
+[print_customers](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/print_customers.java)
+[print_employees](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/print_employees.java)
+[print_orderdetails](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/print_orderdetails.java)
+[print_orders](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/print_orders.java)
+[print_products](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/print_products.java)
+[print_shippers](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/print_shippers.java)
+[print_suppliers](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/print_suppliers.java)
