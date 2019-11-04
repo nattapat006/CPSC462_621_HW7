@@ -51,7 +51,7 @@ Email : nattapat.kummoon@gmail.com
 
 
 ### งานมอบหมายที่ 8
-#### ข้อมูล
+#### [ข้อมูล](https://github.com/nattapat006/CPSC462_621_HW7/tree/master/Data_All)
 [data_categories](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_categories.txt)
 
 [data_customers](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_customers.txt)
@@ -69,7 +69,7 @@ Email : nattapat.kummoon@gmail.com
 [data_suppliers](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/data_suppliers.txt)
 
 
-#### แสดงผลข้อมูล
+#### [แสดงผลข้อมูล](https://github.com/nattapat006/CPSC462_621_HW7/tree/master/Print_All)
 [print_categories](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/print_categories.java)
 
 [print_customers](https://github.com/nattapat006/CPSC462_621_HW7/blob/master/print_customers.java)
