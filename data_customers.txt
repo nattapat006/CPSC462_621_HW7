@@ -1,3 +1,3 @@
-1,non,nation,Lampang,054-265-170
-1,warn,nation,Lampang,054-265-173 - 6
-1,fluk,nation,Lampang,054-820-098 - 9
+01,non,nation,Lampang,054-265-170
+02,warn,nation,Lampang,054-265-173 - 6
+03,fluk,nation,Lampang,054-820-098 - 9
